@@ -1,0 +1,145 @@
+# GIS 101: Learning by Mapping - GitHub Pages Configuration
+
+# Site settings
+title: "GIS 101: Learning by Mapping"
+description: "A dynamic, project-based curriculum that empowers youth with the tools, language, and mindset of spatial thinking."
+author: "National 4-H Geospatial Leadership Team"
+email: "contact@gis101mapping.org"
+url: "https://gis101mapping.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Collections
+collections:
+  modules:
+    output: true
+    permalink: /modules/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "modules"
+    values:
+      layout: "module"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Include
+include:
+  - _pages
+  - _modules
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Modules"
+    url: "/modules/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contributing"
+    url: "/contributing/"
+
+# Social media
+social:
+  - name: "GitHub"
+    url: "https://github.com/gis101mapping"
+  - name: "Twitter"
+    url: "https://twitter.com/gis101mapping"
+  - name: "Discord"
+    url: "https://discord.gg/gis101mapping"
+
+# Theme settings
+theme_settings:
+  # Meta
+  title: "GIS 101: Learning by Mapping"
+  description: "A dynamic, project-based curriculum that empowers youth with the tools, language, and mindset of spatial thinking."
+  
+  # Header
+  header_text: "GIS 101: Learning by Mapping"
+  header_text_visible: true
+  header_text_align: center
+  
+  # Navigation
+  navigation_align: center
+  navigation_style: "text"
+  
+  # Footer
+  footer_text: "Developed by the National 4-H Geospatial Leadership Team"
+  
+  # Social
+  social_icons: true
+  
+  # Search
+  search: true
+  
+  # Comments
+  comments: false
+  
+  # Analytics
+  google_analytics: ""
+  
+  # SEO
+  og_image: "/assets/images/og-image.png"
+  twitter_image: "/assets/images/twitter-image.png"
+
+# Kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1,2,3
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Syntax highlighting
+syntax_highlighter: rouge
+syntax_highlighter_opts:
+  block:
+    line_numbers: false
+    start_line: 1
+  span:
+    line_numbers: false
+    start_line: 1
+  css: class
+
+# Pagination
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Feed
+feed:
+  path: feed.xml
+  limit: 10
+
+# Sitemap
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filetype: xml 
