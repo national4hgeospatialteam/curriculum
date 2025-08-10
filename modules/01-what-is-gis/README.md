@@ -1,8 +1,8 @@
 # Module 1: What is GIS? 🎯
 
-> *"GIS is not just about maps—it's about understanding the world around us in a whole new way."*
+> *"The world isn't just what we see. It's what we map, analyze and reimagine"*
 
-## 🚀 Welcome to Your GIS Journey!
+## 🌎 Let's get YOU started!
 
 Have you ever wondered how your phone knows exactly where you are? Or how emergency responders find the fastest route to help someone? Or how scientists track climate change across the entire planet? The answer to all of these questions is **GIS** - Geographic Information Systems!
 
@@ -133,6 +133,8 @@ Take some time to think about and answer these questions. You can write your res
 
 Congratulations on completing your first module! You've taken the first step into the exciting world of GIS. You now have a foundation understanding of what GIS is and why it matters.
 
+*Note: If you are completing this curriculum as part of your onboarding for the National 4-H Geospatial Leadership Team, please email the completed .md file to: onboarding@national4hgeospatialteam.us*
+
 ## 🚀 What's Next?
 
 In the next module, we'll dive deeper into the art and science of **Map Like a Pro**! You'll learn:
@@ -145,6 +147,6 @@ In the next module, we'll dive deeper into the art and science of **Map Like a P
 
 [**Next Module: Map Like a Pro** →](../02-map-like-a-pro/README.md)
 
----
+
 
 *← [Back to Course Home](../README.md)* 
