@@ -319,4 +319,4 @@
 
 **This curriculum guide is a living document that evolves with our community's needs and feedback. We welcome your suggestions for improvement!**
 
-*For questions about implementation or support, contact us at: [support@gis101mapping.org]* 
+*For questions about implementation or support, email us at contact@national4hgeospatialteam.us* 
