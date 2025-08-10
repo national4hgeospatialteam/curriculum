@@ -1,4 +1,4 @@
-# GIS 101: Learning by Mapping - Curriculum Guide 📚
+# GIS 101: Learning by Mapping Overview
 
 > *A comprehensive guide for educators, students, and organizations implementing our GIS curriculum*
 
@@ -10,7 +10,7 @@
 **Format:** Self-paced, project-based learning  
 **Prerequisites:** None - designed for complete beginners  
 
-## 🌟 Educational Philosophy
+## 📚 Educational Philosophy
 
 ### Our Approach
 
