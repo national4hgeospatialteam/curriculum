@@ -106,7 +106,7 @@ GIS opens doors to exciting careers! Here are some paths you might explore:
 
 ## 📝 Your Turn: Assignment Questions
 
-Take some time to think about and answer these questions. You can write your responses in a notebook, create a digital document, or discuss them with friends or family.
+Take some time to think about and answer these questions. You can write your responses in a notebook or create a digital document to receive credit for this assignment.
 
 ### 1. What is GIS?
 *In your own words, explain what GIS is. Don't worry about being technical - just describe it the way you understand it.*
