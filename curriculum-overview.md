@@ -16,6 +16,8 @@
 
 **Project-Based Learning:** Students learn by doing real-world projects that matter to them and their communities.
 
+**UDL: Universal Design for Learning** 
+
 **4-H Values Integration:**
 - **Service** - Using GIS to help others and improve communities
 - **Storytelling** - Communicating complex ideas through maps and spatial data
