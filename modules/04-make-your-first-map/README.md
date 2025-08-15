@@ -2,6 +2,8 @@
 
 > *"The best way to learn GIS is to make maps!"*
 
+MODULE WILL EXTENSIVLEY USE AGOL/ESRI TUTORIALS HERE TO FIFLL IN BLANKS WITH AGOL TUTORIAL MAP INCL 
+
 ## 🚀 Welcome to Make Your First Map!
 
 It's time to get hands-on with GIS! In this module, you'll use ArcGIS Online to create your very first digital map. You'll learn how to navigate the interface, import data, and visualize information in meaningful ways.
