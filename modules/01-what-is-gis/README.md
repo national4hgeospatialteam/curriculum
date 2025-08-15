@@ -7,9 +7,9 @@
 
 Have you ever wondered how your phone knows exactly where you are? Or how scientists track climate change across the globe? Or how activists expose environmental racism using neighborhood-level maps?
 
-That’s GIS — **Geographic Information Systems** — a real-world superpower that helps us make sense of location, patterns, and decisions.
+That’s GIS — **Geographic Information Systems** — a real-world superpower that helps us make sense of location, patterns, and decisions. 
 
-GIS isn’t just about maps. It’s about asking better questions, telling deeper stories, and taking action that matters.
+Even if you've never directly used GIS, it powers the invisible relationships between geography, data and information that impact your life. From how Amazon gets your package delivered the same day to getting food to your grocery store or the roads that you drive on.. all of that is powered by **G**eographic **I**nformation **S**ystems.
 
 ---
 
@@ -65,10 +65,10 @@ Pick 1–2 ways to explore what GIS is. Follow your curiosity:
 | Option | Description |
 |--------|-------------|
 | 🎥 **Watch** | [“Why GIS Matters” by Dr. Joseph Kerski](https://www.youtube.com/watch?v=-d0QQCyO81I&t=2s) |
-| 🎧 **Listen** | Audio reflection: *"If maps could talk, what would they say?"* (coming soon) |
+| 👀 **Observe** | [Esri: GIS - Creating the World You Want to See](https://www.youtube.com/watch?v=uIKGdWtq6wA) |
 | 📚 **Read** | [What is GIS? (Esri Overview)](https://www.esri.com/en-us/what-is-gis/overview) |
-| 🎮 **Play** | Explore a simple GIS map: *Starter Map – Explore Patterns* (link coming soon) |
-| 🎨 **Sketch** | Draw a “map of your world” (your neighborhood, routine, or dreams) |
+| 🎮 **Play** | Explore a simple GIS map: [Natural Hazards in the United States]([link coming soon](https://4-h.maps.arcgis.com/apps/mapviewer/index.html?webmap=d3f8f252542c495fb216e753391c7307&center=-85.905014%2C32.928161&level=4)) |
+| 🎨 **Sketch** | Draw a “map of your world” (your neighborhood, route to school, or dream city) |
 | 🧩 **Tactile** | Print and annotate a blank map: label areas you know and don’t know |
 
 > 🛠 *Want to use headphones? Do it. Prefer to draw instead of write? Yes!*
@@ -77,7 +77,7 @@ Pick 1–2 ways to explore what GIS is. Follow your curiosity:
 
 ## 🧪 Interactive Practice: Map Explorer Lab
 
-### 🌍 Tool: *ArcGIS Online Starter Map* (link coming soon)
+### 🌍 Tool: *ArcGIS Online People Map* (link coming soon)
 
 **Try this:**
 
@@ -91,7 +91,7 @@ Pick 1–2 ways to explore what GIS is. Follow your curiosity:
 - Who's included or excluded?  
 - How might this map influence decisions?
 
-🎯 *Optional Bonus:* Try making a simple map with labels and symbology
+🎯 *Optional Bonus:* Explore the [ArcGIS Living Atlas](https://www.livingatlas.arcgis.com) and see what data or information that interests you!
 
 ---
 
@@ -111,14 +111,17 @@ Pick 1–2 ways to explore what GIS is. Follow your curiosity:
 
 ## 💼 GIS Careers: What Can You Do?
 
-You can become a:
+Some common careers with GIS as a main focus include:
 - **GIS Analyst** or **Cartographer**  
-- **Climate Scientist** or **Disaster Manager**  
-- **Public Policy Designer**  
-- **Tech Entrepreneur** (map-based apps)  
-- **4-H Youth Mapping Mentor** 👀
+- **Researcher and scientists**  
+- **Civil or environmental engineer**  
+- **App developer** (map-based apps)  
+- **Planner and designers** 
+- **Consultant**
 
-Explore roles using the [Esri Careers Page](https://www.esri.com/en-us/what-is-gis/careers)
+However, keep in mind that GIS is simply a skillset that will be valuable no matter what career you go into. From the humanities to business to medicine, everything if it happens in place- it connects to GIS. 
+
+Feel free to continue exploring roles using the [Esri Careers Page](https://www.esri.com/en-us/what-is-gis/careers)
 
 ---
 
@@ -138,11 +141,11 @@ Choose any 3 (or respond to all if you’d like):
 
 Submit or share your learning in any of these ways:
 
-- 🗺 **StoryMap** or Felt Map  
-- 🎤 **1-Minute Podcast Clip** (Project Woohoo-style)  
-- 🎨 **Sketch Map + Caption**  
-- ✍️ **Short Poem or Paragraph**  
-- 🧠 **Voice Reflection (record on phone)**  
+- 🗺 **ArcGIS StoryMap** 
+- 🎤 **1-Minute Podcast Clip**
+- 🎨 **Sketch a map**  
+- ✍️ **Write a short bio on what GIS is and why it matters**  
+- 🧠 **Voicenote reflection on what you learned**  
 - 🧩 **Remix someone else’s artifact + respond**
 
 > 📬 Upload your file or link to: onboarding@national4hgeospatialteam.us
@@ -151,20 +154,18 @@ Submit or share your learning in any of these ways:
 
 ## 🔗 Bonus Resources
 
-- 🌎 [MapYourWorld.org](https://mapyourworld.org) – Youth-driven GIS stories  
 - 🧠 [Introduction to GIS for Students (Esri)](https://www.esri.com/en-us/industries/k-12-education/community)  
 - 🎮 [Felt: Playful Map Tool for Beginners](https://felt.com)
 
 ---
 
 ## 🎉 You Did It!
-
-You’ve now unlocked **Level 1: Spatial Thinker**  
+ 
 You know what GIS is, why it matters, and how it’s shaping the future.
 
 ---
 
-## 🚀 What’s Next?
+## 🏗️ What’s Next?
 
 In the next module, we’ll explore:
 
