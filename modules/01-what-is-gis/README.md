@@ -49,7 +49,7 @@ Think of GIS as a digital toolbox that helps us:
 
 ## 🎬 Why GIS Matters: Dr. Joseph Kerski
 
-**Watch this video:** [Why GIS Matters](https://www.youtube.com/watch?v=8ZbJwYX_GbI)
+**Watch this video:** [Why GIS Matters](https://www.youtube.com/watch?v=-d0QQCyO81I&t=2s)
 
 *Dr. Joseph Kerski is one of the world's leading GIS educators. In this video, he explains why GIS is so important in today's world.*
 
