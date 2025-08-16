@@ -1,7 +1,7 @@
 # Module 1: What is GIS? 🗺️  
 > *"The world isn't just what we see. It's what we map, analyze, and reimagine."*
 > 
-📝 **Tip:** For guided practice and reflection, be sure to complete the companion activity in [`worksheet.md`](./worksheet.md) as you go through this module.
+📝 **Tip:** For guided practice and reflection, be sure to complete the companion worksheet in [`worksheet.md`](./worksheet.md) or [`worksheet.docx`](./worksheet.docx) as you go through this module.
 
 ---
 
