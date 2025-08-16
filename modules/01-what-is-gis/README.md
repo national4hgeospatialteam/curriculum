@@ -77,25 +77,35 @@ Pick 1–2 ways to explore what GIS is. Follow your curiosity:
 
 ---
 
-## 🧪 Interactive Practice: Map Explorer Lab
+## 🧪 Map Explorer Lab  
+*Use real-world data to uncover patterns and stories with GIS tools!*
 
-### 🌍 Tool: *ArcGIS Online People Map* (link coming soon)
+### 🛰️ Sentinel-2 Explorer  
+🌿 **What it is:** A satellite imagery viewer that shows how the Earth looks from space using different light bands (like infrared!). Great for spotting vegetation, water, agriculture, and land change.
 
-**Try this:**
+🔗 [Explore the map →](https://livingatlas.arcgis.com/sentinel2explorer/#mapCenter=-89.51169%2C29.37701%2C12.000&mode=dynamic&mainScene=%7CAgriculture+for+Visualization%7C)
 
-1. Click into the map viewer  
-2. Turn on 2–3 layers  
-3. Zoom into your area or one that interests you  
-4. Ask: *What do I notice? What questions come up?*
-
-**Look For:**
-- Any surprising patterns?  
-- Who's included or excluded?  
-- How might this map influence decisions?
-
-🎯 *Optional Bonus:* Explore the [ArcGIS Living Atlas](https://www.livingatlas.arcgis.com) and see what data or information that interests you!
+💡 **3 Prompts to Try:**
+- What land uses (farms, wetlands, cities) do you notice in your area?
+- How does the land change as you move from coast to inland or urban to rural?
+- What might this map tell us about climate impacts or food systems?
 
 ---
+
+### 📊 Unemployment Pulse App  
+📉 **What it is:** A dynamic data dashboard that shows unemployment rates by county across the U.S., updated regularly from government sources.
+
+🔗 [Explore the map →](https://livingatlas.arcgis.com/unemploymentpulse/#fips=37183&@=-78.679,35.773,11)
+
+💡 **3 Prompts to Try:**
+- Which counties have the highest and lowest unemployment near you?
+- How does employment look in rural vs. urban areas?
+- What other factors (education, housing, industries) might connect to this data?
+
+🎯 *Optional Challenge:* Browse the full [Living Atlas](https://livingatlas.arcgis.com) and find a dataset related to a topic *you* care about — like food, housing, climate, or transportation.
+
+---
+
 
 ## 🌍 Real-World Uses of GIS
 
