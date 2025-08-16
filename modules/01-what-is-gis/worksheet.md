@@ -1,102 +1,151 @@
-# 📍 Module 1 Worksheet: What is GIS?
+Got it — here’s the full updated worksheet.md file with your requested tip at the top and the correct file path reference:
 
-> Complete this worksheet as part of your GIS learning journey. Choose the format that works best for you: write, draw, type, speak, or map it out!
+⸻
 
----
 
-## 🧠 Section 1: What Do You Already Know?
+# 📝 Module 1 Worksheet: What is GIS?
 
-**🕐 60-Second Challenge:**  
-*Without using notes, describe what you think GIS is.*
+> 📎 **Tip:** Prefer writing in Word? A `.docx` version of this worksheet is available here:  
+> [`worksheet.docx`](./worksheet.docx)
 
-- Write it out:  
-  `__________________________________________`  
-  `__________________________________________`  
-  `__________________________________________`
-
-- OR sketch a concept map, diagram, or visual representation below:
-
-✏️ _(draw space)_
+This is your companion to **Module 1: What is GIS?**  
+It’s designed to help you reflect, sketch, and connect what you learn to the real world. You can complete it digitally or print it out — whatever works best for you.
 
 ---
 
-## 🌍 Section 2: Explore & Reflect
+## ⏱️ 60-Second Definition Challenge
 
-Choose **2–3** resources from the interactive toolbox (video, map, sketch, etc.). After exploring, answer the following prompts:
+**Prompt:** *“What is GIS?”*
 
-**1. What surprised you about GIS?**  
-`__________________________________________`  
-`__________________________________________`
+⏳ Set a timer for 1 minute. Free-write or sketch your answer. Don’t worry about getting it perfect — just get your ideas out.
 
-**2. Which real-world issue do you think GIS could help solve? Why?**  
-`__________________________________________`  
-`__________________________________________`
+**Your Response:**
 
-**3. What’s a question you still have about GIS?**  
-`__________________________________________`  
-`__________________________________________`
+(Write, sketch, or voice-record here)
 
 ---
 
-## 🗺️ Section 3: Map Explorer Lab
+## 🧠 Core Components of GIS
 
-**Using the provided starter map** ([Natural Hazards Map](https://4-h.maps.arcgis.com/apps/mapviewer/index.html?webmap=d3f8f252542c495fb216e753391c7307&center=-85.905014%2C32.928161&level=4)):
+Match each GIS component to your understanding of what it means. You can also sketch simple icons.
 
-- What map layers did you turn on?  
-  - 🔲 Earthquakes  
-  - 🔲 Hurricanes  
-  - 🔲 Flood Risk  
-  - 🔲 Other: `___________`
-
-- What pattern or insight did you discover?  
-  `__________________________________________`
-
-- What question did the map make you ask?  
-  `__________________________________________`
+| GIS Component         | What It Means to Me                                |
+|-----------------------|----------------------------------------------------|
+| 🗺️ Geographic Data     |                                                    |
+| 📊 Attribute Data      |                                                    |
+| 💻 Software Tools      |                                                    |
+| 🧑‍🤝‍🧑 People             |                                                    |
 
 ---
 
-## 🎨 Section 4: Exit Artifact Planning
+## 🔍 Toolbox Exploration Log
 
-Choose **1 exit artifact** you’d like to submit to demonstrate your learning:
+Choose one or two activities from the Interactive Toolbox in the module. Reflect on what you explored.
 
-🔘 ArcGIS StoryMap  
-🔘 Sketch or annotated map  
-🔘 1-minute podcast or voicenote  
-🔘 Paragraph or spoken explanation of what GIS is  
-🔘 Remix someone else’s idea  
+**Activity Chosen (circle one):** 🎥 Watch | 👀 Observe | 📚 Read | 🎮 Play | 🎨 Sketch | 🧩 Tactile
 
-**Briefly describe your plan below:**  
-_What will you make, and what will it show?_  
-`__________________________________________`
+**Notes or Insights:**
 
-> Optional Upload: Send your finished artifact to  
-> `📬 onboarding@national4hgeospatialteam.us`
+What did you learn or notice? What questions came up?
 
 ---
 
-## 💬 Section 5: Career + Connection
+## 🧪 Map Explorer Lab
 
-- One GIS-related career that interests me:  
-  `__________________________`
+Explore at least one of the GIS map tools linked in the module.
 
-- How GIS connects to something I already care about:  
-  `__________________________`
+### 🛰 Sentinel-2 Explorer
 
----
+**What location did you look at? What did you notice?**
 
-## ✅ Checklist
-
-- [ ] I explored at least 2 different resources  
-- [ ] I completed the Map Explorer Lab  
-- [ ] I reflected on what I learned  
-- [ ] I created or planned an exit artifact  
+Ex: I looked at farmland near my city. I noticed crop patterns and water sources.
 
 ---
 
-### 🙌 You’re Done!
+### 📊 Unemployment Pulse App
 
-You’ve officially completed Module 1. Welcome to the world of spatial thinking — where your maps, ideas, and stories have power.
+**What patterns did you see in the unemployment map?**
 
-→ Ready for **Module 2: Map Like a Pro**?  
-🔗 [Click here to continue](../02-map-like-a-pro/README.md)
+Ex: Rural areas had higher unemployment than urban ones. Maybe it’s linked to access to jobs and transit.
+
+---
+
+**Bonus:** Did you find another dataset in the Living Atlas?  
+🔗 *Paste the link here or describe it:*
+
+I found a map about…
+
+---
+
+## 🌍 Real-World GIS Applications
+
+Choose one sector that interests you. Sketch or describe how GIS is used there.
+
+**Sector Chosen (circle one):**  
+🏥 Healthcare | 🌱 Environment | 🏙 Urban Planning | 🛒 Business | 🧭 Social Justice
+
+**Sketch or Describe the Use Case:**
+
+Ex: In healthcare, GIS is used to map ambulance routes and improve emergency response times.
+
+---
+
+## 💬 Reflection Prompts
+
+Pick any 3 of the following prompts to respond to:
+
+1. What surprised you about GIS today?  
+   → 
+
+2. What’s one real-world issue that GIS could help with?  
+   →
+
+3. What would your own custom map reveal that others might miss?  
+   →
+
+4. How does “seeing data on a map” change how you understand it?  
+   →
+
+5. What part of today’s lesson felt most like *you*?  
+   →
+
+---
+
+## 🎯 Exit Artifact Planning
+
+Choose how you’d like to demonstrate your learning from this module:
+
+☐ ArcGIS StoryMap  
+☐ 1-Minute Podcast Clip  
+☐ Sketch a Map  
+☐ Short Written Summary  
+☐ Voicenote Reflection  
+☐ Remix Someone Else’s Artifact + Respond
+
+**What format are you choosing?**
+
+→  
+
+**What’s your message or takeaway going to be?**
+
+→  📬 *Upload your file or link to:* onboarding@national4hgeospatialteam.us
+
+---
+
+## 🧠 Bonus: Career Path Sketch
+
+What’s a career, major, or field you're curious about? Write or draw how GIS might connect to it.
+
+Ex: I want to study agriculture. GIS could help me track crop yields and climate impacts.
+
+---
+
+✅ **You Finished!**  
+You're now one step closer to thinking like a geographer.
+
+Ready for the next step?
+
+🔗 [Start Next Module → Map Like a Pro](../02-map-like-a-pro/README.md)
+
+← [Back to Course Home](../README.md)
+
