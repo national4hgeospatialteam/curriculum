@@ -1,110 +1,129 @@
-# Module 5: Tell Your Story 📖
+# Module 5: Tell Your Story 📖  
+> *"Every map tells a story. Make yours compelling."*  
 
-> *"Every map tells a story. Make yours compelling."* https://www.youtube.com/watch?v=WmobNBnN1lc&list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC
+📝 **Tip:** Use the companion [`worksheet.md`](./worksheet.md) or [`worksheet.docx`](./worksheet.docx) as you build your story.
+
+---
 
 ## 🚀 Welcome to Tell Your Story!
 
-Now that you can create maps, let's learn how to tell powerful stories with them! In this module, you'll discover how to use ArcGIS StoryMaps to combine maps, text, images, and multimedia into engaging narratives that inspire action.
+You’ve created maps — now let’s give them voice. In this module, you’ll use **ArcGIS StoryMaps** to weave maps, media, and narrative into stories that move people.
+
+---
 
 ## 🎯 Learning Goals
 
-By the end of this module, you'll be able to:
+By the end, you’ll be able to:
 
-- **Create** compelling narratives with spatial data
-- **Use** StoryMaps for effective communication
-- **Present** findings in engaging ways
-- **Engage** audiences with spatial stories
+- Craft narrative structure around spatial questions  
+- Combine maps, text, images, and media in StoryMaps  
+- Embed and configure your maps in stories (swipe, sidecar, express maps)  
+- Design with readability, accessibility, and audience in mind  
+- Publish and share with purpose  
+- Iterate from feedback  
 
-## ⏱️ Warm-Up Activity
-
-**Story Brainstorm:** Think about a story you could tell with maps about your community. Consider:
-- What issue or topic interests you?
-- What data would you need?
-- Who is your audience?
-- What action do you want to inspire?
-
-*Take 10 minutes to sketch out your story idea.*
+✅ *You’ve “won” when you have a published story that guides a reader through your spatial question.*
 
 ---
 
-## 🧠 Core Concepts
+## ⏱️ Warm-Up: Story Sketch (10 min)
 
-### The Power of Spatial Storytelling
+- Pick a topic you care about (local issue, change over time, resource access)  
+- Sketch a 3–5 frame storyboard: *Introduction* → *Map insight(s)* → *Conclusion / ask*  
+- List possible media: photos, videos, charts  
 
-[Content coming soon - will cover narrative structure, audience engagement, and storytelling techniques]
+---
 
-### StoryMap Design Principles
+## 🧠 Core Concepts & Resources
 
-[Content coming soon - will include layout, multimedia integration, and user experience]
+### What Is StoryMaps + How to Get Started
 
-### Data-Driven Narratives
+- **Getting Started with ArcGIS StoryMaps** — full tutorial example:  
+  https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4  [oai_citation:0‡ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4?utm_source=chatgpt.com)  
+- **Share the Story of an Expedition** — step-by-step building a StoryMap:  
+  https://learn.arcgis.com/en/projects/share-the-story-of-an-expedition/  [oai_citation:1‡ArcGIS Learn](https://learn.arcgis.com/en/projects/share-the-story-of-an-expedition/?utm_source=chatgpt.com)  
+- **ArcGIS StoryMaps Resources** — guides, planning, themes, blogging:  
+  https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/resources  [oai_citation:2‡esri.com](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/resources?utm_source=chatgpt.com)  
 
-[Content coming soon - will cover how to weave data into compelling stories]
+### Inspiration & Examples
 
-## 🎬 Interactive Practice
+- **StoryMaps Gallery** — see how others have done it:  
+  https://doc.arcgis.com/en/arcgis-storymaps/gallery/  [oai_citation:3‡ArcGIS](https://doc.arcgis.com/en/arcgis-storymaps/gallery/?utm_source=chatgpt.com)  
+- **Great Examples: Swipe** — creative use of the swipe media block:  
+  https://storymaps.arcgis.com/collections/5ac5e2a3c6ec477a8947f890b5bfca37  [oai_citation:4‡ArcGIS StoryMaps](https://storymaps.arcgis.com/collections/5ac5e2a3c6ec477a8947f890b5bfca37?utm_source=chatgpt.com)  
+- **Swipe tutorial / blog** — how and why the swipe block is powerful:  
+  https://www.esri.com/arcgis-blog/products/arcgis-storymaps/constituent-engagement/swipe-right-for-powerful-storytelling  [oai_citation:5‡esri.com](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/constituent-engagement/swipe-right-for-powerful-storytelling?utm_source=chatgpt.com)  
+- **Intro to StoryMaps (Brown University tutorial)** — simpler intro:  
+  https://libguides.brown.edu/gis_data_tutorials/storymaps  [oai_citation:6‡Brown University Library Guides](https://libguides.brown.edu/gis_data_tutorials/storymaps?utm_source=chatgpt.com)  
 
-**Activity:** Create Your First StoryMap
+---
 
-*[Step-by-step instructions coming soon]*
+## 🎬 Interactive Practice: Build Your StoryMap
 
-**What to look for:**
-- Narrative flow
-- Visual appeal
-- Data integration
-- Audience engagement
+### Step A: Start Your Story
 
-## 🌍 Real-World Example
+- Log into ArcGIS StoryMaps  
+- Create a new story (blank or choose a template)  
+- Add a **Cover Page** with title, subtitle, image or placeholder map  
 
-**Case Study:** [Real-world StoryMap example coming soon]
+### Step B: Add Narrative + Media
 
-[Description of how professionals create compelling spatial narratives]
+- Use **Text**, **Heading**, **Quote** blocks  
+- Insert **Image** or **Video** blocks  
+- Use **Immersive** blocks (sidecar, slideshow, map tour) for rich storytelling  
+- Use **Express Maps** for quick map embed inline  
 
-**Key Takeaways:**
-- [Takeaway 1]
-- [Takeaway 2]
-- [Takeaway 3]
+### Step C: Embed Your Map(s)
 
-## 📝 Reflection Questions
+- Insert the map you made in Module 4  
+- Configure its display (size, pop-ups, extents)  
+- Use **Swipe** block to compare two maps side-by-side  
+  - See [Swipe tutorial](https://storymaps.arcgis.com/stories/4afb9aefc2ff43fd81db3f74ddbf05d0)  [oai_citation:7‡ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/4afb9aefc2ff43fd81db3f74ddbf05d0?utm_source=chatgpt.com)  
+  - Also read “Swipe right for a powerful storytelling tool” blog  [oai_citation:8‡esri.com](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/constituent-engagement/swipe-right-for-powerful-storytelling?utm_source=chatgpt.com)  
+- Use **Sidecar / Slideshow** blocks to sync narrative with maps or visuals  
 
-Take time to think about and answer these questions:
+### Step D: Design & Accessibility
 
-### 1. What makes a spatial story compelling?
-*[Prompt for deeper thinking]*
+- Pick a **theme** that matches your tone  
+- Turn on **navigation** or guided flow  
+- Add **alt text** for images, ensure contrast and readable fonts  
+- Preview the story as a reader  
 
-### 2. How did you structure your narrative?
-*[Prompt for deeper thinking]*
+### Step E: Publish & Share
 
-### 3. Who is your target audience and how did you engage them?
-*[Prompt for deeper thinking]*
+- Choose sharing settings (Organization / Public)  
+- Copy link & share with peers  
+- Collect feedback and revise  
 
-### 4. What multimedia elements enhanced your story?
-*[Prompt for deeper thinking]*
+---
 
-### 5. How could you improve your storytelling?
-*[Prompt for deeper thinking]*
+## 📝 Reflection & Feedback
 
-## 🔗 Additional Resources
+1. Which StoryMaps block (swipe, sidecar, express) felt most powerful, and why?  
+2. Did your narrative change as you built the map blocks?  
+3. If someone skimmed your story for 2 minutes, what must they take away?  
+4. What media or layout would you tweak next?  
+5. How would you pitch this story to others (classmates, community, social media)?
 
-- **[Resource Title](URL)** - [Brief description]
-- **[Resource Title](URL)** - [Brief description]
-- **[Resource Title](URL)** - [Brief description]
+---
 
 ## 🎉 You Did It!
 
-[Encouraging summary of what was accomplished]
-
-## 🚀 What's Next?
-
-In the next module, we'll explore **Next Steps**! You'll learn:
-- How to explore GIS career pathways
-- Advanced tools and learning opportunities
-- Planning community service projects
-- Building your GIS portfolio
-
-**Ready to continue your journey?**
-
-[**Next Module: Next Steps** →](../06-next-steps/README.md)
+You turned raw maps into a flow—a story people can *walk through*. That’s how your spatial work becomes communication, insight, and action.
 
 ---
 
-*← [Back to Course Home](../README.md)* 
+## 🚀 What’s Next?
+
+In **Module 6: Next Steps**, we’ll:
+
+- Build your GIS portfolio (stories + maps)  
+- Explore career & advanced tool paths  
+- Plan community or 4-H projects with spatial storytelling  
+- Scale your stories (websites, events, contests)  
+
+🔗 [Next Module → Next Steps](../06-next-steps/README.md)
+
+---
+
+Would you like me to put this into a ready `.md` file and also insert placeholders for YouTube video demos (e.g. “Watch how this works”) so you can drop them in later?
