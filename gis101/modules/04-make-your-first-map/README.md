@@ -231,3 +231,7 @@ Curious to go deeper or work offline? Explore [**QGIS**](https://qgis.org) — a
 🎥 **QGIS Beginner Playlist:** [YouTube](https://www.youtube.com/watch?v=WmobNBnN1lc&list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC)
 
 ---
+
+**Ready to continue your journey?**
+
+[**Next Module: Tell Your Story** →](../05-tell-your-story/README.md)
