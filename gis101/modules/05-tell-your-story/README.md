@@ -78,8 +78,8 @@ By the end, you’ll be able to:
 - Insert the map you made in Module 4  
 - Configure its display (size, pop-ups, extents)  
 - Use **Swipe** block to compare two maps side-by-side  
-  - See [Swipe tutorial](https://storymaps.arcgis.com/stories/4afb9aefc2ff43fd81db3f74ddbf05d0)  [oai_citation:7‡ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/4afb9aefc2ff43fd81db3f74ddbf05d0?utm_source=chatgpt.com)  
-  - Also read “Swipe right for a powerful storytelling tool” blog  [oai_citation:8‡esri.com](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/constituent-engagement/swipe-right-for-powerful-storytelling?utm_source=chatgpt.com)  
+  - See [Swipe tutorial](https://storymaps.arcgis.com/stories/4afb9aefc2ff43fd81db3f74ddbf05d0)(https://storymaps.arcgis.com/stories/4afb9aefc2ff43fd81db3f74ddbf05d0?utm_source=chatgpt.com)  
+  - Also read “Swipe right for a powerful storytelling tool” [blog](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/constituent-engagement/swipe-right-for-powerful-storytelling?utm_source=chatgpt.com)  
 - Use **Sidecar / Slideshow** blocks to sync narrative with maps or visuals  
 
 ### Step D: Design & Accessibility
