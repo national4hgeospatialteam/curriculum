@@ -55,7 +55,7 @@ Find any online map (Living Atlas, news article, StoryMap, city open data). Answ
 
 ## 🛰 ArcGIS Online (AGOL) Deep Dive
 
-🎥 **Watch First:** [Get Started with ArcGIS Online](VIDEO_LINK_HERE) *(~3 min)*
+🎥 **Watch First:** [Get Started with ArcGIS Online](https://www.youtube.com/watch?v=LQlWLKRmAQ8&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=1) *(~3 min)*
 
 ---
 
@@ -67,7 +67,7 @@ Find any online map (Living Atlas, news article, StoryMap, city open data). Answ
 
 ### 2) The Map Viewer: Your Workbench
 
-🎥 **Quick Overview:** [Mapping Basics](VIDEO_LINK_HERE) *(~3 min)*
+🎥 **Quick Overview:** [Mapping Basics](https://www.youtube.com/watch?v=toawx4D-htc&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=2) *(~3 min)*
 
 When you click **Map**, you’ll open Map Viewer.
 
@@ -96,8 +96,8 @@ When you click **Map**, you’ll open Map Viewer.
 
 ### 3) Adding Data (Three Main Ways)
 
-🎥 **Reference:** [Content Basics](VIDEO_LINK_HERE) *(~3 min)*  
-🎥 **Reference:** [Data Basics](VIDEO_LINK_HERE) *(~5 min)*
+🎥 **Reference:** [Content Basics](https://www.youtube.com/watch?v=vSNcUq_eFwg&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=4) *(~3 min)*  
+🎥 **Reference:** [Data Basics](https://www.youtube.com/watch?v=N2DypYUBYzk&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=5) *(~5 min)*
 
 | Method | Use It When | Steps |
 |---|---|---|
@@ -106,7 +106,7 @@ When you click **Map**, you’ll open Map Viewer.
 | **From URL** | You have a Feature/Map Service (REST) | `Add → Add layer from URL` |
 
 **File tips**
-- **CSV** must include *Lat/Long* or a geocodable field (address/city/state).  
+- **CSV or Excel** must include *Lat/Long* or a geocodable field (address/city/state).  
 - **Shapefile** = upload as a **.zip** (all component files included).  
 - **GeoJSON** imports cleanly and preserves attributes.  
 - **Services** ideally end with `/FeatureServer` (editable/queryable) or `/MapServer`.
@@ -149,11 +149,13 @@ When you click **Map**, you’ll open Map Viewer.
 - Add **media** (image from URL, small chart) when it clarifies the story.  
 - Keep it short—less is more. Link out for details if needed.
 
+> Want to see a real use case of this? Check out this YouTube video of pop ups being used to elevate a StoryMap used by students in a Model UN conference [here!](example.com)
+
 ---
 
 ## 🧮 Analysis in ArcGIS Online (The “Why” Engine)
 
-🎥 **Watch:** [Analysis Basics](VIDEO_LINK_HERE) *(~3 min)*
+🎥 **Watch:** [Analysis Basics](https://www.youtube.com/watch?v=pEFqVebemq8&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=8) *(~3 min)*
 
 > Some tools **consume credits** and require **Publisher/Creator**-level privileges. Start with low-volume tests; check with your org admin.
 
@@ -176,7 +178,14 @@ When you click **Map**, you’ll open Map Viewer.
 ---
 
 ### B) Quick Analysis Wins (No/Low Credits)
-...
+
+| 🎯 **Question** | 🧰 **Tool** | 🗺️ **Example Workflow** |
+|---------------|------------|--------------------------|
+| “What’s nearby?” | **Create Buffers** | Buffer park polygons by ½ mile to visualize walkable catchments around green spaces. |
+| “How many are inside?” | **Summarize Within** | Count farmers markets (points) inside each county polygon to compare access regionally. |
+| “What overlaps?” | **Overlay (Intersect)** | Identify parcels that fall inside flood zones by intersecting two polygon layers. |
+| “Which is closest?” | **Find Nearest** *(may use credits)* | For each school, find the nearest bus stop to measure transit accessibility. |
+| “What attributes match spatially?” | **Join Features (Spatial)** | Attach census tract population data to farmers market points based on location, then style by tract population served. |
 
 ---
 
@@ -186,8 +195,8 @@ When you click **Map**, you’ll open Map Viewer.
 <details>
   <summary>🧠 Playlist Reference: Data + Sharing Basics</summary>
 
-  - [Data Basics](VIDEO_LINK_HERE)  
-  - [Sharing Basics](VIDEO_LINK_HERE)
+  - [Data Basics](https://www.youtube.com/watch?v=N2DypYUBYzk&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=5)
+  - [Sharing Basics](https://www.youtube.com/watch?v=aEcXNVXLLbU&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=6)
 </details>
 
 ...
@@ -199,8 +208,8 @@ When you click **Map**, you’ll open Map Viewer.
 <details>
   <summary>🎥 Optional: Group & App Basics (Collaboration + Publishing)</summary>
 
-  - [Group Basics](VIDEO_LINK_HERE)  
-  - [App Basics](VIDEO_LINK_HERE)
+  - [Group Basics](https://www.youtube.com/watch?v=L2BT2C07RHc&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=8)
+  - [App Basics](https://www.youtube.com/watch?v=rbUNtd_71X8&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=10)
 </details>
 
 ---
@@ -210,14 +219,14 @@ When you click **Map**, you’ll open Map Viewer.
 <details>
   <summary>🎥 Full ArcGIS Online “Getting Started” Playlist</summary>
 
-  [YouTube Playlist](VIDEO_LINK_HERE)
+  [YouTube Playlist]((https://www.youtube.com/watch?v=LQlWLKRmAQ8&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf)
 </details>
 
 ---
 
-## 🙌 Bonus Shout-Out: QGIS (Open-Source Power)
+## 🙌 Bonus: QGIS (Open-Source Power)
 
-Curious to go deeper or work offline? Explore **QGIS** — a free, open-source desktop GIS used globally.
+Curious to go deeper or work offline? Explore [**QGIS**](https://qgis.org) — a free, open-source desktop GIS used globally.
 
 🎥 **QGIS Beginner Playlist:** [YouTube](https://www.youtube.com/watch?v=WmobNBnN1lc&list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC)
 
