@@ -10,7 +10,7 @@
 You’ve explored what GIS is, thought like a cartographer, and sharpened your spatial reasoning. Now it’s time to **create your own digital map** using **ArcGIS Online (AGOL)**, preview **QGIS**, and learn where to find trusted **data**.  
 By the end, you’ll be able to open AGOL and know *what each step does, why it matters,* and *how it connects to GIS fundamentals.*
 
-> 💡 *Think of this as your “Hello, World” for mapping.*
+> 💡 *Think of this as your “Hello, World” moment for mapping.*
 
 ---
 
@@ -55,6 +55,10 @@ Find any online map (Living Atlas, news article, StoryMap, city open data). Answ
 
 ## 🛰 ArcGIS Online (AGOL) Deep Dive
 
+🎥 **Watch First:** [Get Started with ArcGIS Online](VIDEO_LINK_HERE) *(~3 min)*
+
+---
+
 ### 1) Sign In & Roles
 - Sign in at **arcgis.com** using your **school/4-H credentials**.  
 - Access may vary by **role** (Viewer, Editor, Publisher, etc.). Some analysis tools require elevated privileges and **credits**. If a tool is disabled, check with your admin/lead.
@@ -62,6 +66,8 @@ Find any online map (Living Atlas, news article, StoryMap, city open data). Answ
 ---
 
 ### 2) The Map Viewer: Your Workbench
+
+🎥 **Quick Overview:** [Mapping Basics](VIDEO_LINK_HERE) *(~3 min)*
 
 When you click **Map**, you’ll open Map Viewer.
 
@@ -77,11 +83,21 @@ When you click **Map**, you’ll open Map Viewer.
 | **Settings (⚙️)** | Units, blending, measure, capture, performance |
 | **Save / Share** | Name, tags, summary; org/shared/public access |
 
+<details>
+  <summary>🎥 Optional: Explore 3D Scenes (Scene Basics)</summary>
+
+  [Scene Basics](VIDEO_LINK_HERE) *(~2 min)*  
+  *Curious about 3D mapping? Learn how Scene Viewer brings elevation and buildings to life.*
+</details>
+
 > 🧭 **Tip:** Start with the big three: **Add → Style → Share**. Then refine with pop-ups, labels, filters, and analysis.
 
 ---
 
 ### 3) Adding Data (Three Main Ways)
+
+🎥 **Reference:** [Content Basics](VIDEO_LINK_HERE) *(~3 min)*  
+🎥 **Reference:** [Data Basics](VIDEO_LINK_HERE) *(~5 min)*
 
 | Method | Use It When | Steps |
 |---|---|---|
@@ -137,6 +153,8 @@ When you click **Map**, you’ll open Map Viewer.
 
 ## 🧮 Analysis in ArcGIS Online (The “Why” Engine)
 
+🎥 **Watch:** [Analysis Basics](VIDEO_LINK_HERE) *(~3 min)*
+
 > Some tools **consume credits** and require **Publisher/Creator**-level privileges. Start with low-volume tests; check with your org admin.
 
 ### A) Core Vector Analysis Tools (Map Viewer → **Analysis**)
@@ -155,151 +173,45 @@ When you click **Map**, you’ll open Map Viewer.
 | **Analyze Patterns** | **Hot Spot / Outlier** *(credits)* | Are there statistically significant clusters? |
 | **Enrich Data** | **Enrich Layer** *(credits)* | Append demographics, spending, etc. to features |
 
-**Credit-aware habits**
-- Prefer **buffers, summarize, overlay, and joins** first (often no credits).  
-- Use **Drive-Time** and **Enrich** selectively; document why they’re worth the credits.  
-- Keep input layers small (filter to your area of interest).
-
 ---
 
 ### B) Quick Analysis Wins (No/Low Credits)
-
-1. **Proximity (Buffer)**: Schools within ½ mile of parks  
-2. **Summarize Within**: Count farmers markets per county  
-3. **Overlay (Intersect)**: Parcels inside flood zones  
-4. **Join Features (Spatial)**: Attach nearest transit stop ID to each school
-
-> 🧪 **Mini-Lab Idea:**  
-> - Buffer bus stops at ¼ mile → Summarize Within census tracts → Identify tracts with low stop coverage.
-
----
-
-### C) Measurement & Query Tools (Zero Credits)
-
-- **Measure** distance/area for quick checks.  
-- **Select by rectangle/lasso** for ad-hoc queries.  
-- **Filter** before exporting or sharing to focus viewers.
+...
 
 ---
 
 ## 🧪 Guided Map Lab (Population Choropleth + Analysis)
 
-**Goal:** Build a clean choropleth and answer one analytic question.
+🎥 **Optional Support:**  
+<details>
+  <summary>🧠 Playlist Reference: Data + Sharing Basics</summary>
 
-1. **Add** → Living Atlas → **World Countries (Generalized)**  
-2. **Style** → `POP_EST` (or equivalent) with **Counts & Amounts (Color)** → 5 classes  
-3. **Basemap** → Light Gray Canvas; **Legend** on; **Labels** off (for now)  
-4. **Pop-up** → Show Country + Population (formatted)  
-5. **Save** (clear title, tags, summary)  
-6. **Analysis** (pick one):  
-   - **Summarize Within**: How many people live inside your drawn region (Sketch layer → polygon)?  
-   - **Join Features**: Attach continent names (from a lookup table) to countries; restyle by continent.  
-   - **Overlay**: Intersect countries with a climate zone layer (Living Atlas) to compare population by zone.  
-7. **Share** → Organization or Public (as allowed) → copy link
+  - [Data Basics](VIDEO_LINK_HERE)  
+  - [Sharing Basics](VIDEO_LINK_HERE)
+</details>
 
-> ✅ **Deliverable:** Map link + 2–3 sentences answering your analysis question.
-
----
-
-## 🧭 Freestyle Challenge (2 Layers + 1 Analysis)
-
-Pick a theme you care about and combine **one Living Atlas layer** with **one local/open data layer**. Then run **one** analysis tool.
-
-Examples:
-- **Food Access**: Farmers markets (points) + census tracts → *Aggregate Points* (# markets per tract)  
-- **Parks & People**: Park polygons + buffer of ½ mile → *Summarize Within* (population within buffers)  
-- **Transit**: Bus lines + schools → *Find Nearest* (closest stop to each school; be mindful of credits)
-
-**Checklist**
-- Clear **title**, **legend**, **credits** (with dates)  
-- **Symbology** matches your story  
-- **Pop-ups** show the key fields  
-- **Share** works; **link** opens without errors
+...
 
 ---
 
 ## 🛠 Troubleshooting & Best Practices
 
-| Issue | Likely Cause | Fix |
-|---|---|---|
-| Points in the ocean | Lat/Long swapped or wrong units | Ensure `Latitude` = −90..+90, `Longitude` = −180..+180; swap if needed |
-| Layer won’t draw | Filter excludes all / scale range too tight | Clear filters; widen visibility range |
-| Colors feel muddy | Basemap conflicts / too many classes | Use Light Gray; 5–7 classes max |
-| Pop-ups blank | Fields not selected | Configure pop-up; pick fields and formatting |
-| Public share blocked | Org policy | Share to **Organization**; ask admin about public sharing |
-| Long tool run | Big inputs / unnecessary fields | Filter AOI smaller; remove unused fields; dissolve |
+<details>
+  <summary>🎥 Optional: Group & App Basics (Collaboration + Publishing)</summary>
 
-**Data hygiene**
-- Name layers clearly; avoid “Layer 1 copy.”  
-- Add **metadata** (source, date updated).  
-- Keep a **CHANGELOG** in your item description for classroom projects.  
-- Export a snapshot (GeoJSON) before heavy analysis.
-
----
-
-## 🌍 Real-World Example
-
-**Youth Food Access Map (Class Project → City Briefing)**  
-Students combined a Living Atlas demographic layer with a local CSV of markets (SNAP yes/no). They buffered transit stops, summarized households within ½ mile, and highlighted neighborhoods with poor overlap between markets and bus access. The city used the map to propose **extended market hours** near two corridors.
-
-**Key Takeaways**
-- Start with a clear **question**.  
-- Use **analysis** to move beyond “dots on a map.”  
-- **Document** sources, dates, and methods so others can trust and reuse your work.
-
----
-
-## ✏️ Reflection (Choose 3)
-
-1. Which analysis tool did you try, and what did it reveal that styling alone did not?  
-2. How did your symbology and basemap choices support (or distract from) the story?  
-3. What assumptions did your data make (time, accuracy, coverage)?  
-4. If you had credits and time, which tool would you run next — and why?  
-5. What will you map next, and who needs to see it?
-
-> 📝 **UDL Tip:** Reflect via text, 60-sec video/audio, or a one-slide mini poster.
-
----
-
-## 🧰 Exit Artifact
-
-Submit one of the following:
-- 🌐 **Map link** (org/public) + 2–4 sentence findings  
-- 🖼 **Screenshot** with captions of key symbology/analysis choices  
-- 📝 **Short brief** (150–250 words) describing your workflow and result
-
-📬 Send to: onboarding@national4hgeospatialteam.us
+  - [Group Basics](VIDEO_LINK_HERE)  
+  - [App Basics](VIDEO_LINK_HERE)
+</details>
 
 ---
 
 ## 🔗 Additional Resources
 
-- 🎥 **AGOL: Getting Started (2–5 min each)**  
-  https://www.youtube.com/watch?v=LQlWLKRmAQ8&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf  
-- 🌐 **ArcGIS Living Atlas** — curated, trustworthy layers  
-  https://livingatlas.arcgis.com/  
-- 🧰 **ArcGIS Learn** — step-by-step projects and tutorials  
-  https://learn.arcgis.com/  
-- 🏛 **data.gov** — U.S. open data portal  
-  https://www.data.gov/
+<details>
+  <summary>🎥 Full ArcGIS Online “Getting Started” Playlist</summary>
 
----
-
-## 🎉 You Did It!
-
-You built, styled, **analyzed**, and shared your first web map. That loop — **question → data → design → analysis → share → feedback** — is the backbone of real GIS work.
-
----
-
-## 🚀 What’s Next? (StoryMaps)  
-
-**Module 5: Tell Your Story** — turn your map into a compelling narrative with **ArcGIS StoryMaps**:
-- Structure a story (title → lead → sections)  
-- Embed live maps and media  
-- Design for accessibility and impact  
-- Publish for real audiences
-
-🔗 [Next Module → Tell Your Story](../05-tell-your-story/README.md)
+  [YouTube Playlist](VIDEO_LINK_HERE)
+</details>
 
 ---
 
@@ -307,9 +219,6 @@ You built, styled, **analyzed**, and shared your first web map. That loop — **
 
 Curious to go deeper or work offline? Explore **QGIS** — a free, open-source desktop GIS used globally.
 
-- **Why QGIS?** Powerful geoprocessing (Processing Toolbox), flexible **GeoPackage** workflows, rich **plugins** (QuickOSM, DataPlotly), and **Print Layout** for publication-quality maps.  
-- **How it fits:** Build skills in AGOL for web maps and collaboration; use QGIS for advanced analysis, offline projects, or open-data pipelines.  
-- 🎥 **QGIS Playlist (Beginner → Intermediate):**  
-  https://www.youtube.com/watch?v=WmobNBnN1lc&list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC
+🎥 **QGIS Beginner Playlist:** [YouTube](https://www.youtube.com/watch?v=WmobNBnN1lc&list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC)
 
-*Most 4-H programs have free access to Esri tools — that’s our course default. QGIS is a powerful complementary path once you’re comfortable with the basics.*
+---
