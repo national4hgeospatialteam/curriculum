@@ -1,6 +1,6 @@
 # Module 5: Tell Your Story 📖
 
-> *"Every map tells a story. Make yours compelling."*
+> *"Every map tells a story. Make yours compelling."* https://www.youtube.com/watch?v=WmobNBnN1lc&list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC
 
 ## 🚀 Welcome to Tell Your Story!
 
