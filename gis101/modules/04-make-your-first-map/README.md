@@ -98,6 +98,8 @@ When you click **Map**, you’ll open Map Viewer.
 
 ### 3) Adding Data (Three Main Ways)
 
+🎥 **Brandon's tutorial on how to make your own data!** [Video](https://youtu.be/gLR2hbRbx40) 
+
 🎥 **Reference:** [Content Basics](https://www.youtube.com/watch?v=vSNcUq_eFwg&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=4) *(~3 min)*  
 🎥 **Reference:** [Data Basics](https://www.youtube.com/watch?v=N2DypYUBYzk&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=5) *(~5 min)*
 
