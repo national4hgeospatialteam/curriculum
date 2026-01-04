@@ -55,7 +55,9 @@ Find any online map (Living Atlas, news article, StoryMap, city open data). Answ
 
 ## 🛰 ArcGIS Online (AGOL) Deep Dive
 
-🎥 **Watch First:** [Get Started with ArcGIS Online](https://www.youtube.com/watch?v=LQlWLKRmAQ8&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=1) *(~3 min)*
+🎥 **Get started with Esri's series..:** [Get Started with ArcGIS Online](https://www.youtube.com/watch?v=LQlWLKRmAQ8&list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf&index=1) *(~3 min)*
+
+🎥 **Brandon's tutorial on how to use ArcGIS Online:** [ArcGIS Online Tutorial](https://www.youtube.com/watch?v=iz9eurz0uC8)
 
 ---
 
