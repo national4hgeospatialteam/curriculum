@@ -3,6 +3,8 @@
 > 
 📝 **Tip:** For guided practice and reflection, be sure to complete the companion worksheet in [`worksheet.md`](./worksheet.md) or [`worksheet.docx`](./worksheet.docx) as you go through this module.
 
+**Just want to get started with learning ArcGIS and Esri products?** [View the National 4-H Geospatial Team GIS 101 playlist here!](https://www.youtube.com/watch?v=yEXTkvnzJUo&list=PLayAmkCXrNg-RXqBek20fLUDsTiut4anX)
+
 ---
 
 ## 🌎 Let’s Get YOU Started!
